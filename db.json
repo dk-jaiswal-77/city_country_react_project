@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "Nepal",
+      "id": 2
+    },
+    {
+      "country": "China",
+      "id": 3
+    },
+    {
+      "country": "USA",
+      "id": 4
+    }
+  ],
+  "cities": [
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "population": "10001010",
+      "id": 1
+    },
+    {
+      "country": "India",
+      "city": "Delhi",
+      "population": "1212345",
+      "id": 2
+    },
+    {
+      "country": "Nepal",
+      "city": "Birgunj",
+      "population": "1234",
+      "id": 3
+    }
+  ]
+}
