@@ -31,6 +31,14 @@ export default function Main(){
 
     return(
         <div>
+
+            <button onClick={()=>{
+                Navigate("/add-country"); 
+            }}>Add Country</button>
+
+            <button onClick={()=>{
+                Navigate("/add-city");
+            }}>Add City</button>
             <table>
                 <thead>
                     <tr>
